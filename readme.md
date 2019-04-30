@@ -30,7 +30,7 @@ openAI入门教程 https://github.com/openai/spinningup
 
 https://github.com/andri27-ts/60_Days_RL_Challenge
 
-### code整理合集
+### baseline整理合集
 
 https://github.com/Khrylx/PyTorch-RL
 
@@ -70,7 +70,11 @@ https://arxiv.org/abs/1609.04436
 
 **reward shaping**
 
+https://github.com/zanghyu/resources/tree/master/pdf/reward%20shaping
+
 **safe rl**
+
+https://github.com/zanghyu/resources/tree/master/pdf/safe%20RL
 
 **text-based games** 
 
@@ -78,11 +82,11 @@ https://github.com/carpedm20/text-based-game-rl-tensorflow
 
 https://github.com/rajammanabrolu/KG-DQN
 
-### blog
+### 博客
 
-https://medium.com/@jonathan_hui/index-page-for-my-articles-in-deep-learning-19821810a14
+https://medium.com/@jonathan_hui/rl-deep-reinforcement-learning-series-833319a95530
 
-### envs
+### 环境
 
 openai-gym(include mujoco, atari etc.): https://gym.openai.com/envs
 
