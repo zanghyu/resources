@@ -17,6 +17,7 @@ Sutton书的python3代码 https://github.com/ShangtongZhang/reinforcement-learni
 
 rl调参技巧和注意事项 https://github.com/williamFalcon/DeepRLHacks 
 
+https://morvanzhou.github.io/tutorials/machine-learning/reinforcement-learning/
 
 ### 讲义&课程资料
 
@@ -28,7 +29,7 @@ openAI入门教程 https://github.com/openai/spinningup
 
 优达学城的drl课程 https://github.com/udacity/deep-reinforcement-learning
 
-https://github.com/andri27-ts/60_Days_RL_Challenge
+莫烦rl课程 https://github.com/andri27-ts/60_Days_RL_Challenge
 
 ### baseline整理合集
 
