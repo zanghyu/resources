@@ -17,7 +17,9 @@ Sutton书的python3代码 https://github.com/ShangtongZhang/reinforcement-learni
 
 rl调参技巧和注意事项 https://github.com/williamFalcon/DeepRLHacks 
 
-https://morvanzhou.github.io/tutorials/machine-learning/reinforcement-learning/
+莫烦教程 https://morvanzhou.github.io/tutorials/machine-learning/reinforcement-learning/
+
+一个博客(需要翻墙) https://medium.com/@jonathan_hui/rl-deep-reinforcement-learning-series-833319a95530
 
 ### 讲义&课程资料
 
@@ -29,7 +31,19 @@ openAI入门教程 https://github.com/openai/spinningup
 
 优达学城的drl课程 https://github.com/udacity/deep-reinforcement-learning
 
-莫烦rl课程 https://github.com/andri27-ts/60_Days_RL_Challenge
+https://github.com/andri27-ts/60_Days_RL_Challenge
+
+### 环境
+
+openai-gym(include mujoco, atari etc.): https://gym.openai.com/envs
+
+deepmind-lab: https://github.com/deepmind/lab
+
+textworld: https://github.com/Microsoft/TextWorld
+
+unity: https://github.com/Unity-Technologies/ml-agents
+
+MiniGrid: https://github.com/maximecb/gym-minigrid
 
 ### baseline整理合集
 
@@ -83,26 +97,8 @@ https://github.com/carpedm20/text-based-game-rl-tensorflow
 
 https://github.com/rajammanabrolu/KG-DQN
 
-### 博客
-
-https://medium.com/@jonathan_hui/rl-deep-reinforcement-learning-series-833319a95530
-
-### 环境
-
-openai-gym(include mujoco, atari etc.): https://gym.openai.com/envs
-
-deepmind-lab: https://github.com/deepmind/lab
-
-textworld: https://github.com/Microsoft/TextWorld
-
-unity: https://github.com/Unity-Technologies/ml-agents
-
-MiniGrid: https://github.com/maximecb/gym-minigrid
 
 ## 其他
 
 pdf中的ineq cheat sheet.pdf  里面有一些关于不等式的公式
-
-
-
 
