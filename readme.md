@@ -21,6 +21,8 @@ rl调参技巧和注意事项 https://github.com/williamFalcon/DeepRLHacks
 
 一个博客(需要翻墙) https://medium.com/@jonathan_hui/rl-deep-reinforcement-learning-series-833319a95530
 
+REINFORCEMENT LEARNING AND OPTIMAL CONTROL http://web.mit.edu/dimitrib/www/RLbook.html
+
 ### 讲义&课程资料
 
 https://github.com/ieor8100/rl
