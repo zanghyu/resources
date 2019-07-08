@@ -35,6 +35,8 @@ openAI入门教程 https://github.com/openai/spinningup
 
 https://github.com/andri27-ts/60_Days_RL_Challenge
 
+http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html
+
 ### 环境
 
 openai-gym(include mujoco, atari etc.): https://gym.openai.com/envs
